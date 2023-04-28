@@ -1,5 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:84%;position:relative;">
-<img src="https://github.com/fathur666/fathur666/blob/main/giphy.gif" alt="Hello" width="100%" height="100%" style="position:absolute" frameBorder="0">
+<img src="https://github.com/fathur666/fathur666/blob/main/giphy.gif" alt="Hello" align="justify" width="40%" height="40%" style="position:absolute" frameBorder="0">
 
 ## 👋 Hello there! 
 

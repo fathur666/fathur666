@@ -1,4 +1,5 @@
-<img src="https://github.com/fathur666/fathur666/blob/main/hello-bear.gif" alt="Hello">
+<div style="width:100%;height:0;padding-bottom:84%;position:relative;">
+<img src="https://github.com/fathur666/fathur666/blob/main/hello-bear.gif" alt="Hello" width="100%" height="100%" style="position:absolute" frameBorder="0">
 
 ## 👋 Hello there! 
 

@@ -1,10 +1,10 @@
 <p align='center'>
-  <img src="https://github.com/fathur666/fathur666/blob/main/giphy.gif" alt="Hello" align="center" width="40%" height="40%" style="position:absolute" frameBorder="0">
+  <img src="https://github.com/fathur666/fathur666/blob/main/giphy.gif" alt="Hello" align="center" width="50%" height="50%" style="position:absolute" frameBorder="0">
 </p>
 
-## 👋 Hello there! 
+## 👋 Welcome to My Personal Project Repository! 
 
-My name is Fathur. I'm an electrical engineer and researcher. Apart from my passion for work and side projects, I love to hustle, collect stuffs, and savoring diverse cuisines. I am always eager for new experience and knowledge.
+This is Fathur. I'm an electrical engineer and researcher. Apart from my passion for work and side projects, I love to hustle, collect stuffs, and savoring diverse cuisines. I am always eager for new experience and knowledge.
 
 ## 🤔 Get to know me
 - 💬 Ask me about: Renewable Energy, Power Electronic, Machine Learning, and Internet of Things

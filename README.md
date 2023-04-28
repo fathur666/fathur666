@@ -9,7 +9,7 @@ My name is Fathur. I'm an electrical engineer and researcher. Apart from my pass
 ## 🤔 Get to know me
 - 💬 Ask me about: Renewable Energy, Power Electronic, Machine Learning, and Internet of Things
 - 🌱 Now Exploring: Energy Forecasting, Battery Manufacturing, Drone Building
-- ⚡ Fun facts: Learning Arabics and Germany. INTJ. VSCode for everything
+- ⚡ Fun facts: Learning Arabics and Germany. INTJ. use VSCode for everything
 - 🎬 Favorite Genre: Comedy, Horror, Action
 - 📚 Favorite Webtoon: Denma, Duty After School, God of Bath, Hellper, The Stories Of Those Around Me, The Sound Of Your Heart, Aisopos
 - 📫 Contact me: fatursrahman@gmail.com

@@ -1,4 +1,6 @@
-<img src="https://github.com/fathur666/fathur666/blob/main/giphy.gif" alt="Hello" align="justify" width="40%" height="40%" style="position:absolute" frameBorder="0">
+<p align='center'>
+  <img src="https://github.com/fathur666/fathur666/blob/main/giphy.gif" alt="Hello" align="center" width="40%" height="40%" style="position:absolute" frameBorder="0">
+</p>
 
 ## 👋 Hello there! 
 

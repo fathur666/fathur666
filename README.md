@@ -4,7 +4,7 @@
 
 ## 👋 Welcome to My Personal Project Repository! 
 
-My name is Fathur. I'm an electrical engineer and researcher. Apart from my passion for work and side projects, I love to hustle, collect stuffs, and savoring diverse cuisines. I am always eager for new experience and knowledge. Check out my compiled coding projects
+My name is Fathur. I'm an electrical engineer and researcher. Apart from my passion for work and side projects, I love to hustle, collect stuffs, and savoring diverse cuisines. I am always eager for new experience and knowledge. Check out my compiled coding projects below!
 
 ## 🤔 Get to know me
 - 💬 Ask me about: Renewable Energy, Power Electronic, Machine Learning, and Internet of Things

@@ -1,3 +1,5 @@
+<img src="https://github.com/fathur666/fathur666/blob/main/hello-bear.gif" alt="Hello">
+
 ## 👋 Hello there! 
 
 My name is Fathur. I'm an electrical engineer and researcher. Apart from my passion for work and side projects, I love to hustle, collect stuffs, and savoring diverse cuisines. I am always eager for new experience and knowledge.
